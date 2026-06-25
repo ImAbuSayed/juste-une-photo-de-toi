@@ -15,7 +15,7 @@
 | **Written On** | June 24, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/juste-une-photo-de-toi/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get a Licensing Quote for Juste Une Photo De Toi](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/juste-une-photo-de-toi/) |
+| **Get License** | [Official Music Licensing for Juste Une Photo De Toi](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/juste-une-photo-de-toi/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `d0ca2a2824a035710ceef3cf0cf9ae6ffc02048d57cf536793b4c5182578482d` |
 | **Timestamp** | June 25, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
