@@ -15,7 +15,7 @@
 | **Written On** | June 24, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/juste-une-photo-de-toi/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Commercial Licensing for Juste Une Photo De Toi](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/juste-une-photo-de-toi/) |
+| **Get License** | [Get a Licensing Quote for Juste Une Photo De Toi](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/juste-une-photo-de-toi/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Juste une photo de toi, et la nuit s'allume
+> Ton regard sur l'écran me sort de la brume
+> Je roule dans la ville, l'ambiance est parfaite
+> Mais t'es la seule femme qui tourne dans ma tête
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
